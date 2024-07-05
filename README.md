@@ -1,11 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 Dice Game
 Welcome to the Dice Game! This is a simple yet fun two-page web application built with React and CSS Modules. Test your luck by rolling a dice. If your selected number matches the randomly generated dice number, you win a point! Otherwise, you lose a point. The score is displayed on the scoreboard.
 
