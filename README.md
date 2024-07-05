@@ -1,4 +1,4 @@
-# React + Vite
+#Dice game
 
 Dice Game
 Welcome to the Dice Game! This is a simple yet fun two-page web application built with React and CSS Modules. Test your luck by rolling a dice. If your selected number matches the randomly generated dice number, you win a point! Otherwise, you lose a point. The score is displayed on the scoreboard.
